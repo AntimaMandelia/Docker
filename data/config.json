@@ -1,0 +1,7 @@
+{
+"TlsVerify":"false",
+"DockerHost":"tcp://10.74.65.160:2376",
+"DockerCertPath":"C:/Users/Antima.Mandelia/docker/default1",
+"DockerConfig":"C:/Users/Antima.Mandelia/docker/default1",
+"ApiVersion":"1.27"
+}
